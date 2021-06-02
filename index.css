@@ -1,0 +1,36 @@
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin:auto;
+    position: relative;
+    background-image: url(./world.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.israel {
+    width:3%;
+    height: 3%;
+    border-radius: 50%;
+    background-color: brown;
+    position: absolute;
+    left: 60%;
+    top:50%;
+}
+.germany {
+    width:3%;
+    height: 3%;
+    border-radius: 50%;
+    background-color: green;
+    position: absolute;
+    left: 45%;
+    top:60%;
+}
+.france {
+    width:3%;
+    height: 3%;
+    border-radius: 50%;
+    background-color:greenyellow;
+    position: absolute;
+    left: 55%;
+    top:60%;
+}
